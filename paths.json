@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/:/",
-    "/content/wknd-xwalk/metadata.json:/metadata.json",
-    "/content/wknd-xwalk/redirects.json:/redirects.json"
+    "/content/test2140/metadata.json:/metadata.json",
+    "/content/test2140/redirects.json:/redirects.json"
   ]
 }
